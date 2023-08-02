@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FREE SIGN UP</name>
+   <tag></tag>
+   <elementGuidId>1f5000db-2b83-493f-9c10-f98a32e48916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'FREE SIGN UP')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tp-try > a.sign-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3d861c07-52f0-48f3-bcd3-cda535176f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.testproject.io/signup</value>
+      <webElementGuid>4016a4b2-a4ff-4cef-9bb5-b91e682409db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sign-up</value>
+      <webElementGuid>977fa13a-0b7d-4b6d-b1ab-2ba83fb2ea0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c186ef46-a742-43e7-bbc2-e8442fe09fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FREE SIGN UP</value>
+      <webElementGuid>055562b9-6485-4fe4-a645-6cf2ad69ed65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;tp-try&quot;]/a[@class=&quot;sign-up&quot;]</value>
+      <webElementGuid>ddc92735-7a28-4617-b55a-3d97bb5ea815</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'FREE SIGN UP')])[2]</value>
+      <webElementGuid>f8f8068d-bdf4-47f1-9584-f5b4776326d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try TestProject:'])[1]/following::a[1]</value>
+      <webElementGuid>9278e439-2c39-4519-a323-9d67d717b901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[1]</value>
+      <webElementGuid>1de5935e-b778-4849-82cc-2d7e7fdcfc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support@testproject.io'])[1]/preceding::a[1]</value>
+      <webElementGuid>13b15fe3-5e40-4336-8b88-dc84bbe9dbc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://app.testproject.io/signup')])[2]</value>
+      <webElementGuid>cb9e0af9-af33-4be6-ab75-c2c707fd75c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/a</value>
+      <webElementGuid>bc4aeceb-0313-4e15-b062-8667e2440d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.testproject.io/signup' and (text() = 'FREE SIGN UP' or . = 'FREE SIGN UP')]</value>
+      <webElementGuid>e8705d1c-71be-4369-abc1-a6d20e46a362</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
