@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/mockbank/Page_Sign Up/a_Log in",
+      "brokenLocator": "//a[contains(text(),\u0027Log in\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(@href, \u0027login\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/mockbank/Page_Sign Up/a_Log in_href.png"
+    }
+  ]
 }

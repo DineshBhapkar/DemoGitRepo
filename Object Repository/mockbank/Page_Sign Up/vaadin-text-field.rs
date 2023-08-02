@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vaadin-text-field</name>
+   <tag></tag>
+   <elementGuidId>4b7c8b61-70ed-46dc-bc84-1c195bb91f5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>vaadin-text-field</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//vaadin-text-field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>vaadin-text-field</value>
+      <webElementGuid>522b5ab0-f945-4407-aeae-7642e51629bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>65235c96-917f-42be-93c5-23b01ecf53fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/vaadin-scroller[1]/div[@class=&quot;sign-up&quot;]/div[@class=&quot;sign-up__form spacing-v-m&quot;]/vaadin-form-layout[1]/vaadin-text-field[1]</value>
+      <webElementGuid>0269de7e-7e28-4db9-8982-034eae2937f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//vaadin-text-field</value>
+      <webElementGuid>126b0b78-8867-488f-a762-a84b25064b62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

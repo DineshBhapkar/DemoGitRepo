@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Resources_small-dropdown-icon w-icon-dr_77e678</name>
+   <tag></tag>
+   <elementGuidId>33346d9b-8131-475c-ab95-0a2ff642af71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#w-dropdown-toggle-2 > div.small-dropdown-icon.w-icon-dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='w-dropdown-toggle-2']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9cc028a0-4a50-4abf-9f09-6e86d87f06ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small-dropdown-icon w-icon-dropdown-toggle</value>
+      <webElementGuid>165aefda-3473-4a85-b5aa-2399212cfa73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4e24e849-71d0-4bb6-b26d-eb40d6d3ef17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w-dropdown-toggle-2&quot;)/div[@class=&quot;small-dropdown-icon w-icon-dropdown-toggle&quot;]</value>
+      <webElementGuid>540f1ea6-ebd9-4fbe-8a8a-022e5b931695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='w-dropdown-toggle-2']/div[2]</value>
+      <webElementGuid>fc25d536-9970-4be8-9fce-40b8f5fbb236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[3]/div/div[2]</value>
+      <webElementGuid>86533efd-f12c-435b-b7ce-a54e8b907054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
